@@ -1,0 +1,7 @@
+#d1{
+  width: 160px; /* largura do box */
+  padding: 0 25px; /* padding à esquerda e à direita */
+  border: solid black;
+  border-width: 0 1%; /* borda à esquerda e à direita */
+  float: left;
+}
